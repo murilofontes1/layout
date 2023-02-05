@@ -1,0 +1,23 @@
+#game-container {
+  width: 45vw;
+  height: 50vh;
+  background-image: url(./image/vecteezy_sunrise-summer-on-forest-background_7067499.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.game-object {
+  background-image: url(./image/vecteezy_duck_1205611.png);
+  width: 50px;
+  height: 50px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+#bnt {
+  border-radius: 50px;
+}
